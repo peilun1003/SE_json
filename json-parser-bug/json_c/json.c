@@ -1,3 +1,4 @@
+//new ver. edit by yenn1ngT
 #include "json.h"
 
 #ifdef _MSC_VER
